@@ -53,7 +53,7 @@ python artifact_drop_calculator.py
 
 ---
 
-## 🚀 Download Pre-Built EXE (Windows)
+## Download Pre-Built EXE (Windows)
 If you don't want to install Python, download the **standalone EXE** from the latest release:
 
 [**Download Latest Release**](https://github.com/ryoukif/genshin-artifact-drop-calculator/releases/latest)
